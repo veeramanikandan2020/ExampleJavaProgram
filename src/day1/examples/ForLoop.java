@@ -9,6 +9,7 @@ public class ForLoop {
 		for(i=0;i<a;i++)
 		{
 			//for(j=a;j>i;j--) 
+			System.out.println("Start Pattern printed");
 			System.out.println("*");
 		   
 	    }
